@@ -2,8 +2,7 @@
 Diamond Sweeper Game 
 
 
-
-The Game is built on plain Javascript. You can do following actions in game.
+The Game is built on reactjs. You can do following actions in game.
 
 Game initiates without hint
 You can re initiate the game at any point of time by clicking (new game or new game with hints button)
