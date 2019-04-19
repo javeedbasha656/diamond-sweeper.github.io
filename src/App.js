@@ -3,6 +3,8 @@ import './styles/App.css';
 import TableItem from './tableItem';
 import { SIZE } from './constants';
 let removeDec;
+
+
 class App extends Component {
   diamondPositions = [
     { r: Math.floor(Math.random() * SIZE), c: Math.floor(Math.random() * SIZE) }
@@ -123,7 +125,7 @@ class App extends Component {
         </span>
         <p className="score-text-game-over">Your score: {this.state.score}</p>
         <p>Reload to Play again</p>
-        <p>Made with {`<3`} by Shubham Singh</p>
+        <p>Made with {`<3`}</p>
       </div>
     );
   }
