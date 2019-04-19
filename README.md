@@ -11,11 +11,13 @@ If you play with hints arrow will appear on click pointing in general direction 
 
 Requirements:
 Create-react-app (Project Name)
+
 npm
 
 To start the Application:
 
 Install the dependencies: npm install
+
 Start development server: npm start 
 
 Page will redirect to http://localhost:3000/
