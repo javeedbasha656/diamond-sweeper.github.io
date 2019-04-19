@@ -10,6 +10,7 @@ You can re initiate the game at any point of time by clicking (new game or new g
 If you play with hints arrow will appear on click pointing in general direction of nearest diamond if diamond is not found on clicked cell
 
 Requirements:
+
 Create-react-app (Project Name)
 
 npm
