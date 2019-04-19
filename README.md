@@ -5,7 +5,9 @@ Diamond Sweeper Game
 The Game is built on reactjs. You can do following actions in game.
 
 Game initiates without hint
-You can re initiate the game at any point of time by clicking (new game or new game with hints button)
+
+You can re initiate the game at any point of time by reloading.
+
 If you play with hints arrow will appear on click pointing in general direction of nearest diamond if diamond is not found on clicked cell
 
 Requirements:
